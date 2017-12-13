@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="neo4j-io-3.4.0-alpha01-tests">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/neo4j-io-3.4.0-alpha01-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

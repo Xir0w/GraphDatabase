@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.neo4j:neo4j-io:3.4.0-alpha01" type="repository">
+    <properties maven-id="org.neo4j:neo4j-io:3.4.0-alpha01" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-io/3.4.0-alpha01/neo4j-io-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-unsafe/3.4.0-alpha01/neo4j-unsafe-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-primitive-collections/3.4.0-alpha01/neo4j-primitive-collections-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-common/3.4.0-alpha01/neo4j-common-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-resource/3.4.0-alpha01/neo4j-resource-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-graphdb-api/3.4.0-alpha01/neo4j-graphdb-api-3.4.0-alpha01.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-collections/3.4.0-alpha01/neo4j-collections-3.4.0-alpha01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
